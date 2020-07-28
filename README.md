@@ -62,4 +62,4 @@ We:
 While the optimal plots are displayed in this document, please feel free to view the other iterations with various parameter values in the "Iterations" directory.
 
 #### Loss Values for a Variety of Window and Batch Sizes:
-![FNG&Closing_Loss](FNG&Closing_Loss.png)
+![FNG&Closing_Loss](Images/FNG&Closing_Loss.png)
